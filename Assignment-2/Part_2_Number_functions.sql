@@ -1,3 +1,10 @@
+---Section B:Number Functions
+--Name:JOSEPH-MWANGI
+--Date: 2026-04-19
+
+--Q1)Display exam results with marks rounded to 1 decimal place, rounded up to nearest 10, and rounded down.
+---Q2)Show total results, average mark (2 dp), highest mark, lowest mark, and total marks.
+---Q3)Display each result with original marks and marks increased by 10% (rounded).
 
 show search_path;
 set search_path to nairobi_academy;

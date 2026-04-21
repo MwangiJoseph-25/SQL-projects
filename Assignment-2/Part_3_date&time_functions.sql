@@ -1,3 +1,12 @@
+---Section C:DATE & TIME Functions
+--Name:JOSEPH-MWANGI
+--Date: 2026-04-19
+
+
+--Q1)Display each student’s first name with their birth year, month, and day as separate columns.
+--Q2)Show each student’s full name, date of birth, and age in years, ordered from oldest to youngest.
+--Q3)Show each student’s full name, date of birth, and age in years, ordered from oldest to youngest.
+
 
 show search_path;
 set search_path to nairobi_academy;

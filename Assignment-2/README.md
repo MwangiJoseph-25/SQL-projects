@@ -1,4 +1,7 @@
-# SQL Assignment 2
+# SQL week 2 Assignment 
+**Name:** Joseph-Mwangi
+**DATE:** 19/04/2026
+## What this covers
 
 This repository contains SQL assignment exercises covering various SQL concepts and functions. The assignment is divided into 6 main topics with practical examples.
 

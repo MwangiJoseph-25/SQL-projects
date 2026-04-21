@@ -1,3 +1,13 @@
+---Section A:String Functions
+--Name:JOSEPH-MWANGI
+--Date: 2026-04-19
+
+---Q1)Display each student's full name in uppercase and their city in lowercase.
+---Q2)Retrieve each student's first name and the length of that first name, ordering from longest to shortest.
+----Q3)Show each subject's name along with the first four characters of the name (as a shortened version) and the length of the full name.
+---Q4)Use CONCAT to create a sentence summarizing each student's name, form, and city.
+
+
 show search_path;
 set search_path to nairobi_academy;
 

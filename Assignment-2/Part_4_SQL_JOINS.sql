@@ -1,4 +1,15 @@
--------SQL JOINS
+---Section D:SQL JOINS
+--Name:JOSEPH-MWANGI
+--Date: 2026-04-19
+
+---Q1)Show each appointment with patient name, doctor name, appointment date, and diagnosis using INNER JOIN
+---Q2)Display all patients and include appointment date and diagnosis if available, otherwise NULL (LEFT JOIN)
+---Q3)Show all doctors and include patient names if they have appointments, otherwise NULL (RIGHT JOIN)
+---Q4)Find patients who have never had an appointment, showing their full name and city
+---Q5)Display each appointment with patient name, doctor name, and prescribed medicine using a three-table INNER JOIN
+
+
+
 set  search_path to city_hospital;
 select* from departments;
 select * from doctors;

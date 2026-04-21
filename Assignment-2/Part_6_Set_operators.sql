@@ -1,3 +1,11 @@
+---Section F: Set Operators
+--Name:JOSEPH-MWANGI
+--Date: 2026-04-19
+
+---Q1)Show a combined list of all unique cities from students and patients, ordered alphabetically
+---Q2)Combine student first names and patient full names into one list with a source label indicating origin
+---Q3)Find cities that appear in both students and patients tables
+---Q4)Combine student, patient, and doctor names into one list with source labels, ordered by source then name
 
 set  search_path to city_hospital;
 select* from departments;

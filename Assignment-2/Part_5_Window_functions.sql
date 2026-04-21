@@ -1,4 +1,14 @@
---- window functions
+---Section E:Window Functions
+--Name:JOSEPH-MWANGI
+--Date: 2026-04-19
+
+
+---Q1)Assign a unique row number to each exam result ordered from highest to lowest marks
+---Q2)Show exam results with both rank and dense rank based on marks (descending) to compare ranking differences
+---Q3)Divide exam results into 3 performance groups (top, middle, bottom) using NTILE and label each group accordingly
+----Q4)Display each exam result alongside the student’s average mark (rounded to 2 decimal places)
+---Q5)Show each exam result with the previous result’s marks for the same student and calculate the improvement
+
 set search_path to nairobi_academy;
 
 select * from  students;
