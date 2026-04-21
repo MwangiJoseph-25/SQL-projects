@@ -103,3 +103,6 @@ Upon completing these assignments, you will understand:
 - Ensure you have appropriate permissions on the databases
 - Some queries reference different schemas, make sure search_path is set correctly
 - Results may vary based on the data in your database
+
+## Article link 
+[Link to your published article](https://dev.to/joseph_mwangi_3ae1f57a132/how-i-started-thinking-in-sql-not-just-writing-queries-3cc7) – on Dev.to
