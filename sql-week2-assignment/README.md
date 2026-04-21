@@ -105,4 +105,4 @@ Upon completing these assignments, you will understand:
 - Results may vary based on the data in your database
 
 ## Article link 
-[Link to your published article](https://dev.to/joseph_mwangi_3ae1f57a132/how-i-started-thinking-in-sql-not-just-writing-queries-3cc7) – on Dev.to
+[Link to my published article](https://dev.to/joseph_mwangi_3ae1f57a132/how-i-started-thinking-in-sql-not-just-writing-queries-3cc7) – on Dev.to
