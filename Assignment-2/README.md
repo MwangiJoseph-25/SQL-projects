@@ -7,7 +7,7 @@ This repository contains SQL assignment exercises covering various SQL concepts 
 
 ## 📋 Contents
 
-### String_functions
+### Part_1_String functions
 Demonstrates PostgreSQL string manipulation functions:
 - **CONCAT()** - Concatenate strings with separators
 - **UPPER()** & **LOWER()** - Convert text to uppercase/lowercase
@@ -19,7 +19,7 @@ Demonstrates PostgreSQL string manipulation functions:
   - Create abbreviated subject names (4 characters)
   - Generate student summary sentences combining multiple fields
 
-### Number_functions
+### Part_2_Number_functions
 Covers numeric operations and aggregations:
 - **ROUND()** - Round numbers to specified decimal places
 - **CEIL()** & **FLOOR()** - Round up/down to nearest integer
@@ -29,7 +29,7 @@ Covers numeric operations and aggregations:
   - Calculate statistics (count, average, max, min, total) of marks
   - Apply bonus calculations (10% boost to marks)
 
-### date&time_functions
+### Part_3_date&time_functions
 Handles date and time operations:
 - **TO_CHAR()** - Format dates to strings
 - **EXTRACT()** - Extract date components (year, month, day)
@@ -39,7 +39,7 @@ Handles date and time operations:
   - Calculate student ages and display with full names
   - Format exam dates in readable format (e.g., "Friday, 15th March 2025")
 
-### SQL_JOINS
+### Part_4_SQL_JOINS
 Demonstrates different types of SQL joins:
 - **INNER JOIN** - Return matching records from both tables
 - **LEFT JOIN** - Return all records from left table and matching from right
@@ -51,7 +51,7 @@ Demonstrates different types of SQL joins:
   - Identify patients who have never had an appointment
   - Retrieve prescription details with patient and doctor names
 
-### Window_functions
+### Part_5_Window_functions
 Advanced analytics using window functions:
 - **ROW_NUMBER()** - Assign unique sequential number
 - **RANK()** & **DENSE_RANK()** - Rank results (with/without gaps)
@@ -64,7 +64,7 @@ Advanced analytics using window functions:
   - Calculate average marks by student
   - Track exam improvements using LAG function
 
-### Set_operators
+### Part_6_Set_operators
 Combines results from multiple queries:
 - **UNION** - Combine distinct results from multiple queries
 - **UNION ALL** - Combine results including duplicates
